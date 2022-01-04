@@ -4,6 +4,7 @@ https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html
 
 ## Installation 
 Use pip install to install the following dependencies
+
 `pip install Pillow`
 
 ## Usage 
